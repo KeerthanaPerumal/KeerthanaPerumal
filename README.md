@@ -1,7 +1,6 @@
-### Hi there 👋
+### About me
+I'm an impact driven master's student in data science, keen on using machine learning and AI to contribute to society and create value in the world around me.
 
-<!--
-**KeerthanaPerumal/KeerthanaPerumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
