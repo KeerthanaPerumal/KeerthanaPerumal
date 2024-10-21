@@ -9,6 +9,9 @@
 * [Cough Identification using MLP](https://github.com/KeerthanaPerumal/Smart-Health/blob/main/Project-4/Project_4_Keerthana.ipynb)
 
 ### My work for the Women in Data Science(WiDS) Datathon: 
-* [Predcition of energy consumption](https://github.com/KeerthanaPerumal/WiDs-Datathon/blob/main/Women%20in%20Data%20Science%20Datathon.ipynb)
+* [Predicition of energy consumption](https://github.com/KeerthanaPerumal/WiDs-Datathon/blob/main/Women%20in%20Data%20Science%20Datathon.ipynb)
+
+### An Ongoing personal project for exploration:
+* [Analyzing EuroSat dataset with AWS EC2 and experiment tracking]([https://github.com/KeerthanaPerumal/WiDs-Datathon/blob/main/Women%20in%20Data%20Science%20Datathon.ipynb](https://github.com/KeerthanaPerumal/EuroSat-with-ResNet50))
 
 
