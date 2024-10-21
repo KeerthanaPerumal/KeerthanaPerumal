@@ -12,6 +12,6 @@
 * [Predicition of energy consumption](https://github.com/KeerthanaPerumal/WiDs-Datathon/blob/main/Women%20in%20Data%20Science%20Datathon.ipynb)
 
 ### An Ongoing personal project for exploration:
-* [Analyzing EuroSat dataset with AWS EC2 and experiment tracking]([https://github.com/KeerthanaPerumal/WiDs-Datathon/blob/main/Women%20in%20Data%20Science%20Datathon.ipynb](https://github.com/KeerthanaPerumal/EuroSat-with-ResNet50))
+* [Analyzing EuroSat dataset with AWS EC2 and experiment tracking](https://github.com/KeerthanaPerumal/EuroSat-with-ResNet50)
 
 
